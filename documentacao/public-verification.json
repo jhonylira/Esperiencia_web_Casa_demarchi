@@ -1,0 +1,52 @@
+[
+  {
+    "path": "",
+    "status": 200,
+    "bytes": "12987"
+  },
+  {
+    "path": "app.js",
+    "status": 200,
+    "bytes": "14579"
+  },
+  {
+    "path": "data.js",
+    "status": 200,
+    "bytes": "8808"
+  },
+  {
+    "path": "assets/scene-201.webp",
+    "status": 200,
+    "bytes": "116616"
+  },
+  {
+    "path": "assets/scene-202.webp",
+    "status": 200,
+    "bytes": "111220"
+  },
+  {
+    "path": "assets/scene-301.webp",
+    "status": 200,
+    "bytes": "274766"
+  },
+  {
+    "path": "assets/scene-302.webp",
+    "status": 200,
+    "bytes": "249098"
+  },
+  {
+    "path": "assets/casa-demarchi-tour.parts.json",
+    "status": 200,
+    "bytes": "397"
+  },
+  {
+    "path": "assets/casa-demarchi-tour.part-01.bin",
+    "status": 200,
+    "bytes": "33554432"
+  },
+  {
+    "path": "assets/casa-demarchi-implantacao-atual.glb",
+    "status": 200,
+    "bytes": "67026964"
+  }
+]

@@ -2,6 +2,8 @@
 
 Apresentação interativa da Rasterizze Arquitetura, Design e Urbanismo, com foco nos interiores da Etapa 02.
 
+**Acessar online:** https://jhonylira.github.io/Esperiencia_web_Casa_demarchi/
+
 Inclui página conceito, plantas humanizadas, maquetes por pavimento, implantação completa, galerias e tour em escala humana com personagens da família.
 
 ## Executar localmente
