@@ -16,6 +16,7 @@ if source.exists():
         if (source/alt).exists():mapping[n]=alt
     mapping.update({41:'Scene 31_1 - ArchViz final v2 - realista dia.png',201:'CLOSET-LIVIA - realista dia.png',202:'Closet rosa com vidro bronze e roupas.png',301:'Scene 34 - realista dia.png',302:'Scene 35 - realista dia.png'})
     for n,filename in mapping.items():
+        if data['scenes'].get(str(n),{}).get('locked'):continue
         p=source/filename
         if not p.exists():continue
         st=p.stat();stamp=f'{st.st_size}-{st.st_mtime_ns}'

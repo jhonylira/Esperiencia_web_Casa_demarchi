@@ -1,0 +1,19 @@
+{
+  "syntax": "passed",
+  "images": 43,
+  "missing_assets": [],
+  "html_ids": "unique",
+  "glb_headers": "valid",
+  "tour_parts": "valid",
+  "pool_gallery": [
+    301,
+    302,
+    303
+  ],
+  "pool_sync_protection": "passed",
+  "pool_hashes": {
+    "301": "92d72726b7b976aa4d623e8c3622bbafe4a58200f78e33dea17a08d1dbe99dc6",
+    "302": "34993be5b689fd3a5c91ed51cfe5ab20734b88ecbc4725867ba83cf3c32196a1",
+    "303": "a15ad1788e3b3ef1170daa54ea8c9b577e229ad9d42c4b082248ab50d0cc921d"
+  }
+}

@@ -1,5 +1,5 @@
 {
-  "revision": 1793043550,
+  "revision": 1793046113,
   "scenes": {
     "1": {
       "stamp": "2248463-1793037707000000000",
@@ -206,16 +206,25 @@
       "updated": "2026-10-26 16:39:09"
     },
     "301": {
-      "stamp": "2665992-1793042914000000000",
-      "source": "D:\\OneDrive - Rasterizze\\RASTERIZZE - WORKSPACE\\01_PROJETOS\\RA26-003-RICARDO-E-JULIANA\\02 - ESTUDO PRELIMINAR\\IMAGENS-SUPERIOR-ETAPA2\\RENDERS-REALISTAS-DIA-2026-10-26\\Scene 34 - realista dia.png",
+      "source": "piscina-deck-dia-frontal.png",
       "final": true,
-      "updated": "2026-10-26 16:39:10"
+      "locked": true,
+      "revision": "deck-madeira-aprovado",
+      "updated": "2026-10-26 17:21:52"
     },
     "302": {
-      "stamp": "2640363-1793043258000000000",
-      "source": "D:\\OneDrive - Rasterizze\\RASTERIZZE - WORKSPACE\\01_PROJETOS\\RA26-003-RICARDO-E-JULIANA\\02 - ESTUDO PRELIMINAR\\IMAGENS-SUPERIOR-ETAPA2\\RENDERS-REALISTAS-DIA-2026-10-26\\Scene 35 - realista dia.png",
+      "source": "piscina-deck-dia-lateral.png",
       "final": true,
-      "updated": "2026-10-26 16:39:10"
+      "locked": true,
+      "revision": "deck-madeira-aprovado",
+      "updated": "2026-10-26 17:21:52"
+    },
+    "303": {
+      "source": "piscina-deck-entardecer.png",
+      "final": true,
+      "locked": true,
+      "revision": "deck-madeira-aprovado",
+      "updated": "2026-10-26 17:21:53"
     }
   }
 }
