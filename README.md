@@ -12,6 +12,16 @@ Sem instalação para visitar pelo navegador. Para apresentar em tela cheia, use
 
 ![Prévia da experiência Casa Demarchi](PREVIA_EXPERIENCIA.png)
 
+### Área externa · três vistas, a mesma materialidade
+
+<p>
+  <img src="dist/assets/scene-301.webp" width="32%" alt="Piscina e deck — vista frontal diurna">
+  <img src="dist/assets/scene-302.webp" width="32%" alt="Piscina e deck — vista lateral diurna">
+  <img src="dist/assets/scene-303.webp" width="32%" alt="Piscina e deck ao entardecer">
+</p>
+
+[Explorar a piscina e o deck ↗](https://jhonylira.github.io/Esperiencia_web_Casa_demarchi/#explorar/lazer)
+
 ## Escolha como conhecer a casa
 
 | Experiência | O que você encontra |
