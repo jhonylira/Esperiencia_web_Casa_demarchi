@@ -48,12 +48,13 @@ Sem instalação para visitar pelo navegador. Para apresentar em tela cheia, use
 | Olhar no tour | Clicar na cena e arrastar |
 | Caminhar | **W A S D**, setas ou botões da tela |
 | Acelerar | **Shift** |
+| Abrir ou fechar um armário | Aproxime-se e clique na porta, use **E** ou o botão da tela |
 | Pular com a Luna | **Espaço** ou botão **Pular** |
 | Ampliar um render | Clicar na imagem |
 | Percorrer imagens ampliadas | Setas do teclado |
 | Fechar a imagem ampliada | **Esc** |
 
-A circulação do tour é livre, sem colisões. O seletor **Vista** troca o pavimento; **Ver meu personagem** alterna a câmera de acompanhamento. A implantação usa a câmera de órbita para mostrar a volumetria da casa.
+As **15 portas de armários do superior** abrem individualmente no tour: closets do casal e da Lívia, quarto da Lívia e quarto de hóspedes. A circulação do tour é livre, sem colisões. O seletor **Vista** troca o pavimento; **Ver meu personagem** alterna a câmera de acompanhamento. A implantação usa a câmera de órbita para mostrar a volumetria da casa.
 
 ## Apresentar localmente
 
