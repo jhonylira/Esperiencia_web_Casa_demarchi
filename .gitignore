@@ -1,0 +1,9 @@
+runtime/node.exe
+node_modules/
+tools/textures/
+*.log
+dist/qa-responsive.html
+dist/assets/casa-demarchi-tour.glb
+dist/assets/casa-demarchi-r0-web.glb
+dist/assets/casa-demarchi-fachada.glb
+.DS_Store

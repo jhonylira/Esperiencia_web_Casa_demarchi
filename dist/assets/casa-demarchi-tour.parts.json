@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "bytes": 111761352,
+  "parts": [
+    {
+      "file": "casa-demarchi-tour.part-01.bin",
+      "bytes": 33554432
+    },
+    {
+      "file": "casa-demarchi-tour.part-02.bin",
+      "bytes": 33554432
+    },
+    {
+      "file": "casa-demarchi-tour.part-03.bin",
+      "bytes": 33554432
+    },
+    {
+      "file": "casa-demarchi-tour.part-04.bin",
+      "bytes": 11098056
+    }
+  ]
+}
